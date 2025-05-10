@@ -1,4 +1,6 @@
 # Control-WIFI-con-ESP32-C3-para-leds
+Para mas detalles visita el tutorial en Youtube https://www.youtube.com/watch?v=HTvr1ktC5TQ&t=133s&pp=0gcJCYUJAYcqIYzv
+
 Archivos para realizar el proyecto completo de una lámpara que se controla vía WIFI con el ESP32 C3 y que enciende en 2 colores
 Te comparto todos los archivos que necesitas para realizar esta practica, encontraras 2 códigos de programación, uno es de "Led rojo web" en donde controlas un led de 5mm conectado a una proto. El segundo código controla 2 leds de color blanco y 2 de color blanco cálido.
 
