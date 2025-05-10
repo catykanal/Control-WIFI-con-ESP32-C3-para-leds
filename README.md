@@ -35,3 +35,6 @@ Materiales solo para practica en protoboard:
 1 ESP32 C3 (Yo utilizo la versión super mini)
 1 Resistencias 1 K
 1 Led 5mm (Color a tu elección)
+
+![6J2A0125](https://github.com/user-attachments/assets/57b720d2-7c61-4918-b01a-ba194b389417)
+
